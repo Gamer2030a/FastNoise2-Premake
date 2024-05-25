@@ -2,8 +2,8 @@
 [![Discord](https://img.shields.io/discord/703636892901441577?style=for-the-badge&logo=discord "Discord")](https://discord.gg/SHVaVfV)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-# FastNoise2
-
+# FastNoise2-Premake(Only builds the main library)
+## WINDOWS ONLY (Others are WIP)
 WIP successor to [FastNoiseSIMD](https://github.com/Auburn/FastNoiseSIMD)
 
 Modular node based noise generation library using SIMD, modern C++17 and templates
