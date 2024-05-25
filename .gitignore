@@ -38,3 +38,8 @@
 /CMakeUserPresets.json
 
 external/
+
+#new for premake
+/FastNoise2
+
+*.sln
