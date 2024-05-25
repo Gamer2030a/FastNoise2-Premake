@@ -43,3 +43,7 @@ external/
 /FastNoise2
 
 *.sln
+/bin
+/bin-int
+*.vcxproj*
+/*.vcxproj*
